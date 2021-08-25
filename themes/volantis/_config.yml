@@ -81,9 +81,9 @@ cover:
   logo:  # https://cdn.jsdelivr.net/gh/Fengxiaoxinxin/images@main/388198a341aa81a1.jpg
   title: # '枫小心的博客'
   subtitle: ''
-  search: A Wonderful Theme for Hex # search bar placeholder
+  search: A Wonderful Theme for Hexo # search bar placeholder
   features:
-    - name: 博客
+    - name: 归档
       icon: #
       img: https://cdn.jsdelivr.net/gh/Fengxiaoxinxin/images@main/%E5%BD%92%E6%A1%A3.svg
       url: /archives/
@@ -169,7 +169,7 @@ article:
       author:
         avatar: https://cdn.jsdelivr.net/gh/Fengxiaoxinxin/images@main/388198a341aa81a1.jpg
         name: 枫小心
-        url: 
+        url: https://www.fengxiaoxin.com
       # 文章创建日期
       date:
         icon: fas fa-calendar-alt
