@@ -674,7 +674,7 @@ plugins:
   #   icon: fas fa-moon # 可自定义
   #   toggle: darkmode
   darkmodejs:
-    enable: #true
+    enable: true
 
   # 旧版 Internet Explorer 淘汰行动
   # https://www.microsoft.com/zh-cn/WindowsForBusiness/End-of-IE-support
@@ -988,7 +988,7 @@ custom_css:
   fontsize:
     root: 16px
     h1: 1.5rem # 不推荐用在文章中
-    h2: 1.5rem
+    h2: 1.35rem
     h3: 1.25rem
     h4: 1.125rem
     h5: 1rem
